@@ -1,0 +1,1 @@
+export const code = "<IconWrapper><CodeAlt size='22px' /></IconWrapper>"
